@@ -1,0 +1,196 @@
+.burger_background{
+    width: 1920px;
+    height: 6880px;
+    background: #F0D7A7;
+}
+*{
+    position: absolute; 
+}
+.img_site_header{
+    width: 1920px;
+    height: 97px;
+    left: 0px;
+    top: 0px;
+}
+
+.backdoor_block_list,.backdoor_block1,.backdoor_block2,.backdoor_block3,.backdoor_block4,.backdoor_block5,.backdoor_block6,.backdoor_block7,.backdoor_block8,.backdoor_block9,.backdoor_block10,.backdoor_block11{
+    position: absolute;
+    width: 1282px;
+    height: 458px;
+    left: 337px;
+background: #FDF2DE;
+}
+.backdoor_block_list{
+    top: 630px;
+}
+.backdoor_block1{
+    top: 1328px;
+}
+.backdoor_block2{
+    top: 1817px;
+}
+.backdoor_block3{
+    top: 2296px;
+}
+.backdoor_block4{
+    top: 2781px;
+}
+.backdoor_block5{
+    top: 3263px;
+}
+.backdoor_block6{
+    top: 3744px;
+}
+.backdoor_block7{
+    top: 4230px;
+}
+.backdoor_block8{
+    top: 4716px;
+}
+.backdoor_block9{
+    top: 5211px;
+}
+.backdoor_block10{
+    top: 5696px;
+}
+.backdoor_block11{
+    top: 6185px;
+}
+
+.text_description_recipe,.text_burger_list,.text_description_burger{
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+
+}
+.text_description_recipe{
+    width: 723px;
+    left: 896px;
+    top: 321px;
+}
+.text_burger_list{
+    width: 686px;
+    left: 617px;
+    top: 640px;
+}
+.text_description_burger{
+    width: 1217px;
+    left: 338px;
+    top: 1105px;
+}
+.text_recipe_step1,.text_recipe_step2,.text_recipe_step3,.text_recipe_step4,.text_recipe_step5,.text_recipe_step6,.text_recipe_step7,.text_recipe_step8,.text_ecipe_step9,.text_recipe_step10,.text_recipe_step11{
+    width: 500px;
+    left: 1012px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+.text_recipe_step1{
+    top: 1496px;
+}
+.text_recipe_step2{
+    top: 1915px;
+}
+.text_recipe_step3{
+    top: 2354px;
+}
+.text_recipe_step4{
+    top: 2911px;
+}
+.text_recipe_step5{
+    top: 3441px;
+}
+.text_recipe_step6{
+    top: 3928px;
+}
+.text_recipe_step7{
+    top: 4415px;
+}
+.text_recipe_step8{
+    top: 4916px;
+}
+.text_ecipe_step9{
+    top: 5388px;
+}
+.text_recipe_step10{
+    top: 5881px;
+}
+.text_recipe_step11{
+    top: 6348px;
+}
+
+.text_recipe_header,.text_recipe,.text_enjoy_your_meal{
+    color: #CB6D29;
+    font-weight:bolder
+}
+.text_recipe_header{
+    width: 603px;
+    height: 48px;
+    left: 898px;
+    top: 185px;
+    font-size: 40px;
+    line-height: 48px;
+}
+.text_recipe{
+    width: 399px;
+    height: 39px;
+    left: 694px;
+    top: 1258px;
+    font-size: 32px;
+    line-height: 39px;
+}
+.text_enjoy_your_meal{
+width: 738px;
+height: 77px;
+left: 591px;
+top: 6690px;
+font-size: 64px;
+line-height: 77px;
+color: #CB6D29;
+}
+
+.img_burger{
+    width: 517px;
+    height: 344.15px;
+    left: 338px;
+    top: 259px;
+}
+.img_burger1,.img_burger2,.img_burger3,.img_burger4,.img_burger5,.img_burger6,.img_burger7,.img_burger8,.img_burger9,.img_burger10,.img_burger11{
+    width: 500px;
+    height: 320.8px;
+    left: 454px;
+    
+}
+.img_burger1{
+    top: 1363px;
+}
+.img_burger2{
+    top: 1850px;
+}
+.img_burger3{
+    top: 2337px;
+}
+.img_burger4{
+    top: 2824px;
+}
+.img_burger5{
+    top: 3310px;
+}
+.img_burger6{
+    top: 3797px;
+}
+.img_burger7{
+    top: 4284px;
+}
+.img_burger8{
+    top: 4771px;
+}
+.img_burger9{
+    top: 5257px;
+}
+.img_burger10{
+    top: 5744px;
+}
+.img_burger11{
+    top: 6231px;
+}
